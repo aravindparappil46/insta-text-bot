@@ -27,3 +27,5 @@ Each message is sent one word at a time!
 - Change the 0 to 1 if you log in to your Instagram account via Facebook and not using Instagram credentials
 
 - Watch it work!
+
+Note: This was for educational purposes only. Spamming is not fun & never encouraged.
