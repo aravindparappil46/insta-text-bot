@@ -16,12 +16,14 @@ Each message is sent one word at a time!
 
 - A file containing the message you want to send (can be in any format)
 
-- Must be able to login to Instagram via Facebook
+- An Instagram account :/
 
 ## How-to
 
 - Fill up the details in ```settings.ini```
 
-- Open up a terminal and run ``` python3 bot.py```  (or ```python bot.py``` depending on your environment setup. The code is written in Python 3)
+- Open up a terminal and run ``` python3 bot.py 0```  (or ```python bot.py 0``` depending on your environment setup. The code is written in Python 3)
+
+- Change the 0 to 1 if you log in to your Instagram account via Facebook and not using Instagram credentials
 
 - Watch it work!
