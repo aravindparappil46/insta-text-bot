@@ -12,7 +12,7 @@ Each message is sent one word at a time!
 
 - Must have selenium installed. Do `pip install selenium`
 
-- ```ChromeDriver.exe``` based on the version of Google Chrome you are running. Go [here](https://chromedriver.chromium.org/downloads) to download
+- ```ChromeDriver``` based on the version of Google Chrome you are running. Go [here](https://chromedriver.chromium.org/downloads) to download
 
 - A file containing the message you want to send (can be in any format)
 
