@@ -7,7 +7,8 @@ import configparser
 import sys
 
 # ---------- Settings --------------- #
-loginWithFB = True if sys.argv[1] == 1 else False
+loginWithFB = True if sys.argv[1] == '1' else False
+print(sys.argv[1], loginWithFB)
 config = configparser.ConfigParser()
 config.read('settings.ini')
 driver_path = config['Settings']['PathToChromeDriver']
