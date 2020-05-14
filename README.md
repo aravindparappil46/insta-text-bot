@@ -28,5 +28,5 @@ Each message is sent one word at a time!
 
 - Watch it work!
 
-**Warning:** ```settings.ini``` contains plain-text passwords which is not a good idea. For now, it is your responsibility to ensure its safety. Please feel free to fork and raise a PR if you want to contribute a safer approach to fetching credentials.
+**Warning:** ```settings.ini``` contains plain-text passwords which is not a good idea. For now, it is your responsibility to ensure its safety. Please feel free to fork and raise a PR if you want to contribute a safer approach to fetching credentials.<br><br>
 **Note:** This was for educational purposes only. Spamming is not fun & never encouraged.
